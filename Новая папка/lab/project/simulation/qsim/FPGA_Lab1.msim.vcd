@@ -1,0 +1,274 @@
+$comment
+	File created using the following command:
+		vcd file FPGA_Lab1.msim.vcd -direction
+$end
+$date
+	Sat Sep 23 20:52:16 2023
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module c_adder_4_vlg_vec_tst $end
+$var reg 4 ! a [3:0] $end
+$var reg 4 " b [3:0] $end
+$var reg 1 # clk $end
+$var reg 1 $ p_in $end
+$var wire 1 % p_out $end
+$var wire 1 & s [3] $end
+$var wire 1 ' s [2] $end
+$var wire 1 ( s [1] $end
+$var wire 1 ) s [0] $end
+
+$scope module i1 $end
+$var wire 1 * gnd $end
+$var wire 1 + vcc $end
+$var wire 1 , unknown $end
+$var tri1 1 - devclrn $end
+$var tri1 1 . devpor $end
+$var tri1 1 / devoe $end
+$var wire 1 0 p_out~output_o $end
+$var wire 1 1 s[3]~output_o $end
+$var wire 1 2 s[2]~output_o $end
+$var wire 1 3 s[1]~output_o $end
+$var wire 1 4 s[0]~output_o $end
+$var wire 1 5 clk~input_o $end
+$var wire 1 6 clk~inputclkctrl_outclk $end
+$var wire 1 7 a[3]~input_o $end
+$var wire 1 8 a[2]~input_o $end
+$var wire 1 9 b[1]~input_o $end
+$var wire 1 : p_in~input_o $end
+$var wire 1 ; a[0]~input_o $end
+$var wire 1 < inst|inst4|inst2~0_combout $end
+$var wire 1 = a[1]~input_o $end
+$var wire 1 > b[0]~input_o $end
+$var wire 1 ? inst|inst4|inst2~1_combout $end
+$var wire 1 @ inst|inst3|inst2~0_combout $end
+$var wire 1 A inst|inst2|inst2~0_combout $end
+$var wire 1 B b[3]~input_o $end
+$var wire 1 C b[2]~input_o $end
+$var wire 1 D inst|inst2|inst2~1_combout $end
+$var wire 1 E inst|inst|inst2~0_combout $end
+$var wire 1 F d4~q $end
+$var wire 1 G inst|inst|inst4~combout $end
+$var wire 1 H d3~q $end
+$var wire 1 I inst|inst2|inst4~0_combout $end
+$var wire 1 J d2~q $end
+$var wire 1 K inst|inst3|inst4~combout $end
+$var wire 1 L d1~q $end
+$var wire 1 M inst|inst4|inst4~0_combout $end
+$var wire 1 N d0~q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+0$
+x%
+x)
+x(
+x'
+x&
+0*
+1+
+x,
+1-
+1.
+1/
+x0
+x1
+x2
+x3
+x4
+05
+x6
+07
+08
+09
+0:
+0;
+x<
+0=
+0>
+x?
+x@
+xA
+0B
+0C
+xD
+xE
+0F
+xG
+0H
+xI
+0J
+xK
+0L
+xM
+0N
+$end
+#173
+06
+#3470
+0?
+#3471
+0D
+#3477
+0<
+#3555
+02
+0'
+#3615
+04
+0)
+#3630
+00
+0%
+#3637
+01
+0&
+#3638
+03
+0(
+#3750
+0A
+#3777
+0@
+#3849
+0E
+#3852
+0M
+#4169
+0I
+#4206
+0K
+#4481
+0G
+#120000
+b1000 !
+b1100 !
+b1110 !
+b1111 !
+b1000 "
+b1100 "
+b1110 "
+b1111 "
+1$
+#120640
+1;
+1C
+#120650
+17
+1>
+#120660
+1:
+19
+#120680
+1=
+#120710
+18
+1B
+#123885
+1?
+#124143
+1@
+#124177
+1<
+#124223
+1E
+#124249
+1D
+#124255
+1K
+#124261
+1M
+#124520
+1A
+#124521
+1I
+#124620
+1G
+#190000
+1#
+#190730
+15
+#190917
+16
+#193285
+1F
+1H
+1J
+1L
+1N
+#196832
+12
+1'
+#196894
+14
+1)
+#196905
+10
+1%
+#196910
+11
+1&
+#196911
+13
+1(
+#200000
+b111 !
+b11 !
+b1 !
+b0 !
+b111 "
+b11 "
+b1 "
+b0 "
+0$
+#200746
+0;
+0C
+#200756
+07
+0>
+#200766
+0:
+09
+#200786
+0=
+#200816
+08
+0B
+#204217
+0D
+#204223
+0<
+#204226
+0?
+#204543
+0@
+#204566
+0A
+#204605
+0E
+#204618
+0M
+#204935
+0I
+#204952
+0K
+#205297
+0G
+#210000
+0#
+#210836
+05
+#211009
+06
+#5150000

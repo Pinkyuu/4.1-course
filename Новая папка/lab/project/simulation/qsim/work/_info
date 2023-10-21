@@ -1,0 +1,181 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/semak 7/plis/lab1/project/simulation/qsim
+v\a-adder-4 
+!s110 1694857980
+!i10b 1
+!s100 mYPCn2d7ef[8ZB`]F@0Df2
+IIjjz_EUN;OMlfMoEJ?]kf3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/semak-7/plis/lab1/project/simulation/qsim
+w1694857979
+Z2 8FPGA_Lab1.vo
+Z3 FFPGA_Lab1.vo
+Z4 L0 31
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1694857980.000000
+Z6 !s107 FPGA_Lab1.vo|
+Z7 !s90 -work|work|FPGA_Lab1.vo|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@134a-adder-4@040
+va_adder_4
+Z10 !s110 1694860493
+!i10b 1
+!s100 kd0dNal5dP:E84eA<=T5E2
+IEo8Z`Pbh`cFAYdUblNzOb0
+R0
+R1
+w1694860492
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1694860493.000000
+R6
+R7
+!i113 1
+R8
+R9
+va_adder_4_vlg_vec_tst
+R10
+!i10b 1
+!s100 dLLJdR?l3dkN<IfZ@CfhC3
+IcOR:RU`R?7KH>YF5d0b8m0
+R0
+R1
+w1694860491
+Z12 8Waveform1.vwf.vt
+Z13 FWaveform1.vwf.vt
+Z14 L0 29
+R5
+r1
+!s85 0
+31
+R11
+Z15 !s107 Waveform1.vwf.vt|
+Z16 !s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R8
+R9
+vc_adder_4
+Z17 !s110 1695477135
+!i10b 1
+!s100 GDKNRh7R9Clln7akjo21m3
+I;<Cd6FCn_J4H4UhQl4j0e3
+R0
+R1
+Z18 w1695477134
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+Z19 !s108 1695477135.000000
+R6
+R7
+!i113 1
+R8
+R9
+vc_adder_4_vlg_vec_tst
+R17
+!i10b 1
+!s100 34VcGzUEhT][CS:<Tj<IG0
+IYIOhgUOE?9bD_jlI`1gzd0
+R0
+R1
+w1695477133
+8Waveform2.vwf.vt
+FWaveform2.vwf.vt
+R14
+R5
+r1
+!s85 0
+31
+R19
+!s107 Waveform2.vwf.vt|
+!s90 -work|work|Waveform2.vwf.vt|
+!i113 1
+R8
+R9
+vFPGA_Lab1
+Z20 !s110 1694857497
+!i10b 1
+!s100 62dRl11IA<oM@SR?>ccbU2
+IT1df7_TA28D5b[D71HQXD2
+R0
+R1
+w1694857496
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+Z21 !s108 1694857497.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@f@p@g@a_@lab1
+vFPGA_Lab1_vlg_vec_tst
+R20
+!i10b 1
+!s100 LFWLaI]6cP`TnANe9zJ`72
+IgnWT5GR?B;N4aSK=f1l8b3
+R0
+R1
+w1694857495
+R12
+R13
+R14
+R5
+r1
+!s85 0
+31
+R21
+R15
+R16
+!i113 1
+R8
+R9
+n@f@p@g@a_@lab1_vlg_vec_tst
+vhard_block
+R17
+!i10b 1
+!s100 C`mMN1PBhH=LmJQ=45g992
+IHCK^TN@HE5MkFf80b2YFn2
+R0
+R1
+R18
+R2
+R3
+L0 571
+R5
+r1
+!s85 0
+31
+R19
+R6
+R7
+!i113 1
+R8
+R9
